@@ -1,6 +1,7 @@
 # AI Chat Studio
 
 A modern, production-grade AI chat application built with Next.js 15, Groq, and Tailwind CSS.
+🔗 Live Demo: https://your-app.vercel.app
 
 🔗 Live Demo: https://your-app.vercel.app
 
